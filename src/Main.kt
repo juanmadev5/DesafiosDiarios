@@ -1,5 +1,5 @@
-import desafios.CollatzConjeture
+import desafios.EliudsEggs
 
 fun main() {
-    CollatzConjeture(12)
+    EliudsEggs()
 }
