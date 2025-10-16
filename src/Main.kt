@@ -1,5 +1,5 @@
-import desafios.EliudsEggs
+import desafios.NucleotidCount
 
 fun main() {
-    EliudsEggs()
+    NucleotidCount()
 }
